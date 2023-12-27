@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+
+
+</head>
+    <body>
+
+
+        <div class="deisgn"> Calculator </div>
+        <div class="dev">~ Codster(dev)</div>
+        <div class="main">
+
+            <div class="item top"> <div class="zoom" id="data">0</div></div>
+
+            <div class="item ac " id="clear" onclick="AllClear()" >AC</div>
+            <div class="item de" onclick="DeleteLstNumber()">DE</div>
+            <div class="item symbolStyle dot" onclick="display('.')">.</div>
+            <div class="item symbolStyle" onclick="display('/')">/</div>
+            <div class="item" onclick="display('7')">7</div>
+            <div class="item" onclick="display('8')">8</div>
+            <div class="item" onclick="display('9')">9</div>
+            <div class="item symbolStyle" onclick="display('*')">X</div>
+            <div class="item" onclick="display('4')">4</div>
+            <div class="item" onclick="display('5')">5</div>
+            <div class="item" onclick="display('6')">6</div>
+            <div class="item symbolStyle" onclick="display('-')">-</div>
+            <div class="item" onclick="display('1')">1</div>
+            <div class="item" onclick="display('2')">2</div>
+            <div class="item" onclick="display('3')">3</div>
+            <div class="item symbolStyle" onclick="display('+')">+</div>
+            <div class="item" onclick="display('0')">0</div>
+            <div class="item" onclick="display('00')">00</div>
+            <div class="item equal" onclick="calculate()">=</div>
+            
+  
+        </div>
+        <script src="app.js"></script>
+    </body>
+</html>
