@@ -14,15 +14,7 @@ This calculator app allows users to perform basic arithmetic operations, includi
 - Clear and delete functionality 🔄
 - Limit on the maximum number of digits displayed ⚠️
 
-## Getting Started 🛠️
 
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/your-username/calculator-app.git
-    ```
-
-2. Open the `index.html` file in your preferred web browser.
 
 ## Usage 🖱️
 
@@ -33,7 +25,8 @@ This calculator app allows users to perform basic arithmetic operations, includi
 - Press "=" to calculate and display the result.
 
 ## Screenshots 📸
-!(https://github.com/codster15/Calculator-app/assets/127374043/5255cedf-011c-4e33-a540-5e9c6bb14f88)
+
+![48](https://github.com/codster15/Calculator-app/assets/127374043/65ad4df6-e9c4-4a83-ba84-f3a0fc95b1f0)
 
 
 ## Let's Connect
