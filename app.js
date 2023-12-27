@@ -27,6 +27,10 @@ let initialDisplay = true;
 
 display = (numberPass) => {
 
+        if(input.innerHTML.length == 12){
+    alert("Number got exceeded !")
+    return
+}
   
 // Inteligent code 
     // Check if it's the initial display
