@@ -33,7 +33,7 @@ This calculator app allows users to perform basic arithmetic operations, includi
 - Press "=" to calculate and display the result.
 
 ## Screenshots 📸
-![[Calculator App](https://github.com/codster15/Calculator-app/assets/127374043/5255cedf-011c-4e33-a540-5e9c6bb14f88)
+!(https://github.com/codster15/Calculator-app/assets/127374043/5255cedf-011c-4e33-a540-5e9c6bb14f88)
 
 
 ## Let's Connect
