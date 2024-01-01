@@ -2,7 +2,7 @@
 
 A simple calculator web application with HTML, CSS, and JavaScript.
 
-## Project live ->  [Project link](https://codster15.github.io/Calculator-app/)
+## Project live ->  [Click here](https://codster15.github.io/Calculator-app/)
 ## Overview 🌐
 
 This calculator app allows users to perform basic arithmetic operations, including addition, subtraction, multiplication, and division. It features a clean and user-friendly interface.
