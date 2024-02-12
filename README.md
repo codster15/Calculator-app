@@ -22,7 +22,7 @@ This calculator app allows users to perform basic arithmetic operations, includi
 - Use the operation buttons (+, -, *, /) to perform calculations.
 - Click on "AC" to clear the display.
 - Click on "DE" to delete the last entered digit.
-- Press "=" to calculate and display the result..
+- Press "=" to calculate and display the result...
 
 ## Screenshots 📸
 
