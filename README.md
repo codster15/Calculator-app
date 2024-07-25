@@ -1,6 +1,6 @@
 # Calculator App 🧮
 
-A simple calculator web application with. HTML, CSS, and JavaScript.
+A simple calculator web application with. HTML, CSS, and JavaScript..
 
 ## Project live ->  [Click here](https://codster15.github.io/Calculator-app/)
 ## Overview 🌐
