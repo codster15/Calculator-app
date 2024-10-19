@@ -11,7 +11,7 @@ This calculator app allows users to perform basic arithmetic operations, includi
 
 - Responsive design 📱
 - Addition, subtraction, multiplication, and division operations ➕ ➖ ✖️ ➗
-- Clear and delete functionality 🔄
+- Clear and delete functionality 🔄.
 - Limit on the maximum number of digits displayed ⚠️
 
 
